@@ -11,7 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/MijE3l/Jim_Lee/raw/main/IMG-20190623-WA0019 (2).jpg)
+![alt text](https://github.com/MijE3l/Jim_Lee/raw/main/a_github.jpg)
 
 <!-- Add your details -->
 
