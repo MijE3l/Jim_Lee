@@ -15,7 +15,7 @@
 
 <!-- Add your details -->
 
-I am __Jim Lee__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Jim Lee__, currently enrolled into a SGUnited Skills Programme, Rapid & Immersive Skill Enhancement (RISE) - Business and Data Analytics Track by DigitalBCG Academy (Boston Consulting Group Pte Ltd) to upskill on business and data essentials. Completing programme by early September 2021. I am passionate about studying how to improve performance through data analytics and provide immersive, visualization solutions via Augmented Reality and Virtual Reality design and development. I have 11 years of profession at an oil & gas bulk liquid logistics company – experienced with inter-department coordination, improve inventory management processes on petroleum, chemicals and liquified gases products and customer relationship management.
 
 
 <!-- Add link to the sections -->
