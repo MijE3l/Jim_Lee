@@ -5,7 +5,6 @@
 ✉️: lee.jian.sheng.jim@gmail.com 
 &nbsp;&nbsp; 📲 +65-91384590
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/jian-sheng-jim-lee-a980b919b/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
