@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/MijE3l/Jim_Lee/raw/main/20191104_155237.jpg)
+![alt text](https://github.com/MijE3l/Jim_Lee/raw/main/IMG-20190623-WA0019 (2).jpg)
 
 <!-- Add your details -->
 
