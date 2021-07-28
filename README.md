@@ -11,7 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/MijE3l/Jim_Lee/raw/main/jim_profile-pic.png)
+![alt text](https://github.com/MijE3l/Jim_Lee/raw/main/jim_profile-pic_resized.png)
 
 <!-- Add your details -->
 
